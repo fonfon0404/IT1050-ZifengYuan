@@ -10,7 +10,15 @@ namespace Lab01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from [ZifengYuan]");
+
+            {
+                int count = 0;
+                do
+                {
+                    System.out.println("welcome");
+                    count++;
+                } while (count < 10);
+            }
             Console.ReadKey();
         }
     }
