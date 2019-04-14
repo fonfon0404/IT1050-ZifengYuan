@@ -12,12 +12,7 @@ namespace Lab01
         {
 
             {
-                int count = 0;
-                do
-                {
-                    System.out.println("welcome");
-                    count++;
-                } while (count < 10);
+                Console.WriteLine("Hello World from [Zifeng]");
             }
             Console.ReadKey();
         }
