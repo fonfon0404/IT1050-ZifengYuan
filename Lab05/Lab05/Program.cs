@@ -29,39 +29,18 @@ namespace Lab05
             }
 
             {//5
-                /*  namespace Dog
-                    {
-                        class Dog
-                            {
-                                public string Name { get; set; }
-
-                                   // Add bark() method
-                                public string bark;
-                                public static void bark();
-                                { Console.WriteLine("{0} is Barking. ..", Name); }
-                            }
-                    }*/
+                // below is the code for the Dog.cs
+                // public void bark(){ Console.WriteLine("{0} is Barking...", Name);
+                // and myDog.bark(); for the Program.cs
             }
 
             {//6
-               /*namespace Dog
-                {
-                    class Dog
-                    {
-                        public string Name { get; set; }
-
-                        // Add bark() method
-                        public string bark;
-                        public static void bark();
-                            { Console.WriteLine("{0} is Barking. ..", Name); }
-
-                        // Add doTrick() method
-                        public string doTrick;
-                        public static void doTrick(Fetch);
-                            { Console.WriteLine("{0} is so smart!  {0} is doing a(n) {1}", name, trickName); }
-
-                    }
-                }*/
+             // below is the code for the Dog.cs
+             // public void doTrick(string trickName)
+             // { Console.WriteLine("{0} is so smart! {0} is doing a(n) {1}", Name, trickName); }
+             // and myDog.doTrick("Fetch"); for the Program.cs
+             
+                //the screenshots of the code were sent to your e-mail, again thank you for helping.
             }
         }
     }
