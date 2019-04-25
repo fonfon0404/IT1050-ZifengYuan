@@ -11,7 +11,7 @@ namespace Lab06
         static void Main(string[] args)
         {
             {//2
-                //A one-dimensional array p contains four elements.The array access expressions to access each of the elements in p are __[0]__, __[1]__,__[2]__ and __[3]__.
+                //A one-dimensional array p contains four elements.The array access expressions to access each of the elements in p are _p[0]_, _p[1]_,_p[2]_ and _p[3]_.
             }
 
             {//3
